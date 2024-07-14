@@ -22,9 +22,9 @@
 </p>
 
 - 😊 Web Development Intern @**[SSIT](https://sensesemi.in/)**
-- 📫 Contact me through Gmail: **rambabuakkapolu970@gmail.com**
-- 📈 In the process of **upskilling**
+- 📈 Currently in the process of **upskilling**
 - 🙂 BTech UnderGrad - "Ready to tackle real-world challenges with impactful contributions.."
+- 📫 Contact me via Gmail: **rambabuakkapolu970@gmail.com**
 - 🎯 Software Developer.
 
 ### Let's Connect:
