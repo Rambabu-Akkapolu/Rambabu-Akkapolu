@@ -1,4 +1,4 @@
-[![MasterHead](https://dzoneindia.co.in/upload/images/202307311821_762644189.gif)](https://github.com/rambabu-akkapolu)
+
 <h1 align="center">Hi 👋, I'm Rambabu</h1>
 <h3 align="center">
   An aspiring Software Developer
