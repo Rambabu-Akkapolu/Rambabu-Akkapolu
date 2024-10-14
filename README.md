@@ -21,9 +21,10 @@
   <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" alt="VsCode" width="40" height="40"/>
 </p>
 
-- 😊 Web Development Intern @**[SSIT](https://sensesemi.in/)**
+- 🤝 Public Relations Lead @**IETE** Institute Student Forum
+- 💻 Former Web Development Intern @**[SSIT](https://sensesemi.in/)**
 - 📈 Currently in the process of **upskilling**
-- 🙂 BTech UnderGrad - "Ready to tackle real-world challenges with impactful contributions.."
+- 🙂 B.Tech UnderGrad - "Ready to tackle real-world challenges with impactful contributions.."
 - 📫 Contact me via Gmail: **rambabuakkapolu970@gmail.com**
 - 🎯 Software Developer.
 
