@@ -48,17 +48,13 @@
     <td width="50%">
       <h3 align="center"><strong style="color:#36bcf8">ɢɪᴛʜᴜʙ sᴛᴀᴛs</strong></h3>
       <p align="center">
-          <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=octocat&theme=nord&preferLogin=true&Background=0F2C3B2E&Text=DDDDDD&Title=DDDDDD">    
-            <img  alt="Rambabu-Akkapolu's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Rambabu-Akkapolu?cardType=octocat&theme=nord&preferLogin=true&Background=0F2C3B2E&Text=DDDDDD&Title=DDDDDD" />
-          </a>
+            <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=octocat&theme=nord&preferLogin=true&Background=081F3053&Border=FFFFFF00&Title=DDDDDD">    <img  alt="RAMBABU-AKKAPOLU's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/RAMBABU-AKKAPOLU?cardType=octocat&theme=nord&preferLogin=true&Background=081F3053&Border=FFFFFF00&Title=DDDDDD" />  </a>
       </p>
     </td>
     <td width="50%">
       <h3 align="center"><strong style="color:#36bcf8">sᴛʀᴇᴀᴋ sᴛᴀᴛs</strong></h3>
       <p align="center">
-         <a href="https://git.io/streak-stats">
-           <img src="https://streak-stats.demolab.com?user=Rambabu-Akkapolu&theme=dark&background=0F2C3B2E&currStreakLabel=3BB1EB&ring=3BB1EBED&fire=3BB1EB" alt="GitHub Streak" />
-         </a>
+         <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=rambabu-akkapolu&theme=nord&hide_border=true&border_radius=0&card_height=200&background=081F3053&fire=16698E&ring=2387D053&border=081F3053&currStreakNum=EBEBEB&sideLabels=EBEBEB&sideNums=EBEBEB" alt="GitHub Streak" /></a>
       </p>
     </td>
   </tr>
