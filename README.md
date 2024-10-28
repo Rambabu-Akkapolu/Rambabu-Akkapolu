@@ -1,4 +1,4 @@
-![GITHUB BANNER](https://github.com/user-attachments/assets/e496ae46-0830-428b-9b23-ad8ae0953f63)
+![GITHUB BANNER (SIMPLE)](https://github.com/user-attachments/assets/eba812a2-ae27-49b7-af18-a46bd56b7afa)
 
 <h1 align="center">𝗛𝗶 𝗧𝗵𝗲𝗿𝗲👋❟ 𝗜'𝗺 𝗥𝗮𝗺𝗯𝗮𝗯𝘂</h1>
 <h3 align="center">𝗔𝗻 𝗔𝘀𝗽𝗶𝗿𝗶𝗻𝗴 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 
