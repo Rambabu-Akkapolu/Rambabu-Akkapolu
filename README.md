@@ -1,10 +1,9 @@
-![BANNER](https://github.com/user-attachments/assets/701813f9-cec0-47f4-8087-fa0f60f011d2)
 <h1 align="center">👋 Hi, I'm Rambabu Akkapolu!</h1>
 <h3 align="center">A Final Year B.Tech Student | Aspiring Software Developer 💻</h3>
 
-<table style="border: none; width: 100%;">
+<table style="width: 100%; border: none;">
   <tr style="display: flex; flex-wrap: wrap;">
-    <td style="width: 40%; padding: 8px; box-sizing: border-box; flex: 0 0 40%;" class="left-column">
+    <td style="flex: 1 1 40%; padding: 8px; box-sizing: border-box;" class="left-column">
       <h3><𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀 & 𝗧𝗼𝗼𝗹𝘀 /> </h3>
       <p align="left">
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
@@ -37,7 +36,7 @@
         <a href="https://x.com/A_Rambabu_"><img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white" /></a>
       </p>
     </td>
-    <td style="width: 60%; padding: 8px; box-sizing: border-box; flex: 0 0 60%;" class="right-column">
+    <td style="flex: 1 1 60%; padding: 8px; box-sizing: border-box;" class="right-column">
       <h3 align="center"><strong style="color:#36bcf8"><𝗚𝗶𝘁𝗛𝘂𝗯 𝗦𝘁𝗮𝘁𝘀/> </strong></h3>
       <p align="center">
         <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=octocat&theme=nord&preferLogin=true&Background=081F3053&Border=FFFFFF00&Title=DDDDDD">
@@ -48,8 +47,8 @@
       <p align="center">
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rambabu-Akkapolu&theme=github" alt="GitHub Contribution Stats" 
           width="100%" style="max-width: 100%; height: auto;" />
-       </p>
-   </td>
+      </p>
+    </td>
   </tr>
 </table>
 
