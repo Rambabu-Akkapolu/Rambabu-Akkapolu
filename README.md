@@ -4,6 +4,13 @@
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td width="50%" valign="top">
+      <h3>⟨𝐀𝐛𝐨𝐮𝐭 𝐌𝐞/⟩</h3>
+      <ul>
+        <li>🤝 Public Relations Lead @<strong>IETE</strong> Institute Student Forum</li>
+        <li>💻 Former Web Development Intern @<strong><a href="https://sensesemi.in/">SSIT</a></strong></li>
+        <li>📈 Currently in the process of <strong>upskilling</strong></li>
+        <li>🙂 Ready to tackle real-world challenges with impactful contributions</li>
+      </ul>
       <h3>⟨𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀 & 𝗧𝗼𝗼𝗹𝘀 /⟩</h3>
       <p align="left">
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
@@ -27,18 +34,8 @@
         <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
         <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
         <img src="https://img.shields.io/badge/Cursor-008080?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor"/>
-        <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" alt="Microsoft Office Suit"/>
         <img src="https://img.shields.io/badge/Bootstrap_Studio-6D648D?style=for-the-badge&logo=bootstrap-studio&logoColor=white" alt="Bootstrap Studio"/>
       </p>
-      <h3>⟨𝐀𝐛𝐨𝐮𝐭 𝐌𝐞/⟩</h3>
-      <ul>
-        <li>🤝 Public Relations Lead @<strong>IETE</strong> Institute Student Forum</li>
-        <li>💻 Former Web Development Intern @<strong><a href="https://sensesemi.in/">SSIT</a></strong></li>
-        <li>📈 Currently in the process of <strong>upskilling</strong></li>
-        <li>🙂 Ready to tackle real-world challenges with impactful contributions</li>
-        <li>📫 Contact me via Gmail: <strong>rambabuakkapolu970@gmail.com</strong></li>
-        <li>🎯 Software Developer</li>
-      </ul>
     </td>
     <td width="50%" valign="top">
       <h3 align="center"><strong style="color:#36bcf8">⟨𝗚𝗶𝘁𝗛𝘂𝗯 𝗦𝘁𝗮𝘁𝘀/⟩</strong></h3>
