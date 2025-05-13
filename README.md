@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Rambabu Akkapolu!</h1>
+<h1 align="center">👋 Hi, I'm Rambabu Akkapolu</h1>
 <h3 align="center">A Final Year B.Tech Student | Seeking Entry-Level Opportunities 💻</h3>
 
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
@@ -8,8 +8,8 @@
       <ul>
         <li>🤝 Public Relations Lead @<strong>IETE</strong> Institute Student Forum</li>
         <li>💻 Former Web Development Intern @<strong><a href="https://sensesemi.in/">SSIT</a></strong></li>
-        <li>📈 Currently in the process of <strong>upskilling</strong></li>
-        <li>🙂 Ready to tackle real-world challenges with impactful contributions</li>
+        <li>📈 Expanding my knowledge in <strong>Web Development</strong></li>
+        <li>🙂 Looking for a role where I can contribute to <strong>meaningful projects </strong>and learn from <strong>experienced developers</strong>.</li>
       </ul>
       <h3>⟨𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀 & 𝗧𝗼𝗼𝗹𝘀 /⟩</h3>
       <p align="left">
