@@ -73,7 +73,7 @@
     </td>
     <td align="center" valign="middle">
       <p><strong>Published:</strong> Jan 18, 2024</p>
-      <a href="#" target="_blank"><img src="https://img.shields.io/badge/Read%20Article-3A86FF?style=for-the-badge" alt="Read More"></a>
+      <a href="https://rambabu-a.hashnode.dev/github-copilot-blog" target="_blank"><img src="https://img.shields.io/badge/Read%20Article-3A86FF?style=for-the-badge" alt="Read More"></a>
     </td>
   </tr>
   <tr>
@@ -86,7 +86,7 @@
     </td>
     <td align="center" valign="middle">
       <p><strong>Published:</strong> Nov 13, 2024</p>
-      <a href="#" target="_blank"><img src="https://img.shields.io/badge/Read%20Article-3A86FF?style=for-the-badge" alt="Read More"></a>
+      <a href="https://rambabu-a.hashnode.dev/how-80-mindset-20-skills-by-dev-gadhvi-changed-my-career-perspective" target="_blank"><img src="https://img.shields.io/badge/Read%20Article-3A86FF?style=for-the-badge" alt="Read More"></a>
     </td>
   </tr>
   <tr>
@@ -99,7 +99,7 @@
     </td>
     <td align="center" valign="middle">
       <p><strong>Published:</strong> Sep 15, 2024</p>
-      <a href="#" target="_blank"><img src="https://img.shields.io/badge/Read%20Article-3A86FF?style=for-the-badge" alt="Read More"></a>
+      <a href="https://rambabu-a.hashnode.dev/google-lighthouse-first-impression" target="_blank"><img src="https://img.shields.io/badge/Read%20Article-3A86FF?style=for-the-badge" alt="Read More"></a>
     </td>
   </tr>
 </table>
