@@ -1,3 +1,5 @@
+![githubBanner](https://github.com/user-attachments/assets/617b14f9-5c55-47c9-9c69-fef0977a60ca)
+
 <h1 align="center">👋 Hi, I'm Rambabu Akkapolu</h1>
 <h3 align="center">A Final Year B.Tech Student | Seeking Entry-Level Opportunities 💻</h3>
 
